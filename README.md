@@ -19,6 +19,6 @@ This repository is currently under development, with core functionalities such a
 
 If you're interested in tracking the project's progress, feel free to watch or ⭐ the repository. Updates will be shared as the project nears completion.
 
-**Estimated Completion Date**: Next Week 📅
+**Estimated Completion Date**: Next Week  📅
 
 Thank you for your interest!
